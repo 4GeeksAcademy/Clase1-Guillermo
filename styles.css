@@ -3,7 +3,7 @@ body {
 }
 .post {
   background-color: white;
-  width: 40%;
+  width: 500px;
   height: auto;
   margin: auto;
   font-family: "Roboto", sans-serif;
@@ -32,6 +32,5 @@ img {
 }
 .save,
 .menu {
-  margin-left: auto;
-  margin-right: 1cap;
+  margin: 0 1cap 0 auto;
 }
